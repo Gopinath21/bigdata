@@ -1,1 +1,3 @@
 http://bigdatauniversity.com/
+connect to a plug socket to charge device and close  unsed applicationa in tast manger. continued usage 
+while charging may prevent efficient charing.
